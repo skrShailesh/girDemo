@@ -1,5 +1,5 @@
 package com.example.git;
 
 public class demoGit {
-//feature 1
+//feature 2 added
 }
